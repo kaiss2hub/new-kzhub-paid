@@ -3,7 +3,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 -- Whitelist of usernames 
 local whitelist = {
     "kaisfrms2hub",  
-    "Player"
+    "Bestakgod36",
     "Player", 
     "Player",
     "Player",
